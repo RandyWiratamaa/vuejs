@@ -1,4 +1,4 @@
-# randy-wrtm
+# Vue JS
 
 ## Project setup
 ```

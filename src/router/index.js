@@ -1,11 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Index from '../views/IndexView.vue'
+import Index from '../views/IndexView.vue';
+import Kategori from '../views/KategoriView.vue';
 
 const routes = [
   {
     path: '/',
     name: 'Dashboard',
     component: Index
+  },
+  {
+    path: '/kategori',
+    name: 'Kategori',
+    component: Kategori
   },
   {
     path: '/about',
