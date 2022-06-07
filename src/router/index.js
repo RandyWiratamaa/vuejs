@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Index from '../views/IndexView.vue';
-import Kategori from '../views/KategoriView.vue';
+import Menu from '../views/MenuView.vue';
 
 const routes = [
   {
@@ -9,9 +9,9 @@ const routes = [
     component: Index
   },
   {
-    path: '/kategori',
-    name: 'Kategori',
-    component: Kategori
+    path: '/menu',
+    name: 'Menu',
+    component: Menu
   },
   {
     path: '/about',

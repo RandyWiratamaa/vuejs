@@ -27,9 +27,9 @@
                                 class="side-menu__label">Dashboard</span></a>
                     </li>
                     <li class="slide">
-                        <a class="side-menu__item has-link" data-bs-toggle="slide" href="/kategori"><i
+                        <a class="side-menu__item has-link" data-bs-toggle="slide" href="/menu"><i
                                 class="side-menu__icon ti-notepad"></i><span
-                                class="side-menu__label">Kategori</span></a>
+                                class="side-menu__label">Menu</span></a>
                     </li>
                 </ul>
                 <div class="slide-right" id="slide-right"><svg xmlns="http://www.w3.org/2000/svg" fill="#7b8191"
